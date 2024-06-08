@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/Diesel/CLionProjects/GestionMed/cmake-build-debug",
-		"source" : "C:/Users/Diesel/CLionProjects/GestionMed"
+		"build" : "C:/Users/Diesel/CLionProjects/Gite_Clone/AED-TF-GestionMed/cmake-build-debug",
+		"source" : "C:/Users/Diesel/CLionProjects/Gite_Clone/AED-TF-GestionMed"
 	},
 	"version" : 
 	{

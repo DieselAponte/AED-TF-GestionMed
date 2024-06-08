@@ -85,7 +85,7 @@ int main() {
         //Restringir Respuesta a un si o no
     }while(respuestaIterativa == "si" || respuestaIterativa == "s");
 
-    cout << "Pulse cualquier tecla para continuar: " << endl;
+    cout << "Pulse cualquier tecla para continuar... " << endl;
     getch();
     return 0;
 }
