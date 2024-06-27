@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "C:/Users/Diesel/CLionProjects/Gite_Clone/AED-TF-GestionMed/main.cpp" "CMakeFiles/GestionMed.dir/main.cpp.obj" "gcc" "CMakeFiles/GestionMed.dir/main.cpp.obj.d"
+  "D:/C++Proyectos/AED-TF-GestionMed/main.cpp" "CMakeFiles/GestionMed.dir/main.cpp.obj" "gcc" "CMakeFiles/GestionMed.dir/main.cpp.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.
